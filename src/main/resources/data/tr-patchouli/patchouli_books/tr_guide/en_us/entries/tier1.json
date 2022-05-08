@@ -1,0 +1,61 @@
+{
+  "name": "Tier 1 Machines",
+  "icon": "techreborn:electronic_circuit",
+  "category": "tr-patchouli:start",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "We will go through all the Tier 1 machines, i.e. the machines you can craft from an electronic circuit. Most of these are important for progression, but if one is not, its page will mention it. We will need a lot of iron, copper, redstone and rubber for all of these together."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The electronic circuit is the item all Tier 1 machines need. Almost all also need a basic machine frame.",
+      "recipe": "techreborn:crafting_table/parts/electronic_circuit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Better yield than the iron furnace, but doesn't give smelting XP. Only needed as ingredient for progression, but very handy for smelting.",
+      "recipe": "techreborn:crafting_table/machine/electric_furnace"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Mainly used for producing plates, but can also compress a few other things.",
+      "recipe": "techreborn:crafting_table/machine/compressor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The grinder is a very important machine. It is capable of grinding ingots to dusts as well as ore blocks, granting double yield for the latter. The industrial grinder is",
+      "recipe": "techreborn:crafting_table/machine/grinder"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "better though, so don't overdo it. For now, throw in 16 coal (NOT charcoal) or a whole stack if you have one, this will be needed soon. The grinder can also grind down a lot of other items, e.g. blaze rods or glow berries. The latter enables you to get glowstone dust without going to the nether, but you wil need a whole stack of berries for one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Can extract dyes from flowers and other things, e.g. string from an old bow. Only needed as ingredient for progression, but doubles yield on rubber from sap.",
+      "recipe": "techreborn:crafting_table/machine/extractor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "For your trash, produces scrap. Important for late game, so collect early!",
+      "recipe": "techreborn:crafting_table/machine/recycler"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Breaks the block in front of it. Made for engineers, not needed for progression.",
+      "recipe": "techreborn:crafting_table/machine/block_breaker"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Puts a block in front of it. Made for engineers, not needed for progression.",
+      "recipe": "techreborn:crafting_table/machine/block_placer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Puts stuff into cells. For automation, but not for progression.",
+      "recipe": "techreborn:crafting_table/machine/canning_machine"
+    }
+  ]
+}
