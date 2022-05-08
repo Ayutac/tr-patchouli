@@ -1,0 +1,22 @@
+{
+  "name": "Tier 0 Machines",
+  "icon": "techreborn:resin_basin",
+  "category": "tr-patchouli:start",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tier 0 machines are those that work without electricity. We have already seen the iron furnace and the iron alloy furnace. This chapter covers the remaining machines of that type. We cover these after the tier 1 machines because some are needed for these here."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Drains the fluid block above it, even from a cauldron. Great for automation, not needed for progression (but for resin basin).",
+      "recipe": "techreborn:crafting_table/machine/drain"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Automatically drains sap from the rubber tree it's attached to, and puts it in the container under if, if there is any.",
+      "recipe": "techreborn:crafting_table/machine/resin_basin"
+    }
+  ]
+}
