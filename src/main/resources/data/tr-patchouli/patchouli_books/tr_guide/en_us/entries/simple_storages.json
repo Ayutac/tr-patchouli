@@ -1,0 +1,27 @@
+{
+  "name": "Simple Storages",
+  "icon": "techreborn:cell",
+  "category": "tr-patchouli:start",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "TechReborn provides three kinds of improved storage: the cell, storage units and tank units. A cell is like a bucket, but stackable when all cells hold the same fluid. Storage and tank units store many of one single item or fluid respectively."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/cell",
+      "recipe2": "techreborn:crafting_table/unit/storage/crude_storage_unit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/basic_display",
+      "recipe2": "techreborn:crafting_table/unit/storage/basic_storage_unit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Technically, a storage unit can hold more fluid in cells than a tank unit of the same tier, but then you would need many, MANY tin ingots.",
+      "recipe": "techreborn:crafting_table/unit/tank/basic_tank_unit"
+    }
+  ]
+}
