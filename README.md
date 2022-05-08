@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Planet B
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) Add-on.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.

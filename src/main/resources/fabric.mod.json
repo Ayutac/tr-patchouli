@@ -1,38 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "tr-patchouli",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Tech Reborn Patchouli",
+  "description": "A Patchouli guide for Tech Reborn",
   "authors": [
-    "Me!"
+    "Ayutac"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Ayutac/tr-patchouli",
+    "sources": "https://github.com/Ayutac/tr-patchouli"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/tr-patchouli/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "org.abos.fabricmc.trpatchouli.TRPatchouli"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
-    "fabricloader": ">=0.13.3",
+    "fabricloader": ">=0.14.0",
     "fabric": "*",
     "minecraft": "~1.18.2",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
