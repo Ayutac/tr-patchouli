@@ -1,0 +1,29 @@
+{
+  "name": "Ind. Blast Furnace",
+  "icon": "techreborn:industrial_blast_furnace",
+  "category": "tr-patchouli:next",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Next is the industrial blast furnace, our first multiblock structure. We will need heating coils (save up 8 nickel ingots for that) and standard machine casings, not to be confused with basic machine frames."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Can also be used to produce some vanilla iron items cheaper. For the coils, order 4 copper and 4 nickel ingots alternating around the center.",
+      "recipe": "techreborn:crafting_table/machine/rolling_machine"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Std. Machine Casing",
+      "text": "We will need 9 basic machine frames and 18 electronic circuits for the needed standard machine casings alone. With the additional ingots for the recipe, that are 144 iron ingots needed.",
+      "recipe": "techreborn:crafting_table/machine_block/basic_machine_casing"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ind. Blast Furnace",
+      "text": "All TechReborn multiblock structures have holograms showing us how they are built together, once manually activated by using the placed down controller block.",
+      "recipe": "techreborn:crafting_table/machine/industrial_blast_furnace"
+    }
+  ]
+}
