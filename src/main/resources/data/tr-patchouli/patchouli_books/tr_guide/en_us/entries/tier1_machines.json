@@ -6,11 +6,11 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "We will go through all the Tier 1 machines, i.e. the machines you can craft from an electronic circuit. Most of these are important for progression, but if one is not, its page will mention it. We will need a lot of iron, copper, redstone and rubber for all of these together."
+      "text": "We will go through all the tier 1 machines, i.e. the machines you can craft from an electronic circuit. Most of these are important for progression, but if one is not, its page will mention it. We will need a lot of iron, copper, redstone and rubber for all of these together."
     },
     {
       "type": "patchouli:crafting",
-      "text": "The electronic circuit is the item all Tier 1 machines need. Almost all also need a basic machine frame.",
+      "text": "The electronic circuit is the item all tier 1 machines need. Almost all also need a basic machine frame.",
       "recipe": "techreborn:crafting_table/parts/electronic_circuit"
     },
     {

@@ -1,0 +1,37 @@
+{
+  "name": "Tier 1 Tools",
+  "icon": "techreborn:basic_drill",
+  "category": "tr-patchouli:start",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tools are what makes TechReborn so fun. No more tool breaking or conserving with a sliver, instead your tools just run out of energy! All tools can be charged in the battery box (and its higher tier relatives). Tools can be enchanted as well."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like an iron pickaxe and iron shovel in one!",
+      "recipe": "techreborn:crafting_table/tool/basic_drill"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a faster iron pickaxe, but only on non-ore blocks!",
+      "recipe": "techreborn:crafting_table/tool/basic_jackhammer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Like an iron pickaxe, but with built-in Silk Touch!",
+      "recipe": "techreborn:crafting_table/tool/rock_cutter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like an iron axe, but has attack stats of diamond one!",
+      "recipe": "techreborn:crafting_table/tool/basic_chainsaw"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The electric version of the tree tap!",
+      "recipe": "techreborn:crafting_table/tool/electric_treetap"
+    }
+  ]
+}
