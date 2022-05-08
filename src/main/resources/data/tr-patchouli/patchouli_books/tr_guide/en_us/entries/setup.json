@@ -21,6 +21,20 @@
         "tr-patchouli:textures/gui/entries/setup.png"
       ],
       "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/machine/iron_furnace_alt",
+      "recipe2": "techreborn:crafting_table/machine/iron_alloy_furnace"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Next up are the iron furnace and the iron alloy furnace. The iron furnace saves your smelting XP and has a better yield than the vanilla furnace, and the iron alloy furnace is needed to craft the wrench. For that, put the 3 remaining copper ingots and the tin ingot into the alloy furnace to get 4 bronze ingots."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The wrench can be used to change orientations of machines or to make the blocks drop. Now that the set-up is done, we are ready for the machines!",
+      "recipe": "techreborn:crafting_table/tool/wrench"
     }
   ]
 }
