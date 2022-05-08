@@ -15,13 +15,13 @@
     },
     {
       "type": "patchouli:crafting",
-      "text": "Better yield than the iron furnace, but doesn't give smelting XP. Only needed as ingredient for progression, but very handy for smelting.",
+      "text": "More efficient than the iron furnace, but doesn't give smelting XP. Only needed as ingredient for progression, but very handy for smelting.",
       "recipe": "techreborn:crafting_table/machine/electric_furnace"
     },
     {
       "type": "patchouli:crafting",
-      "text": "Mainly used for producing plates, but can also compress a few other things.",
-      "recipe": "techreborn:crafting_table/machine/compressor"
+      "text": "More efficient than the iron alloy furnace. Only needed as ingredient for progression, but very handy for alloy smelting.",
+      "recipe": "techreborn:crafting_table/machine/alloy_smelter"
     },
     {
       "type": "patchouli:crafting",
@@ -31,6 +31,11 @@
     {
       "type": "patchouli:text",
       "text": "better though, so don't overdo it. For now, throw in 16 coal (NOT charcoal) or a whole stack if you have one, this will be needed soon. The grinder can also grind down a lot of other items, e.g. blaze rods or glow berries. The latter enables you to get glowstone dust without going to the nether, but you wil need a whole stack of berries for one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Mainly used for producing plates, but can also compress a few other things.",
+      "recipe": "techreborn:crafting_table/machine/compressor"
     },
     {
       "type": "patchouli:crafting",
@@ -44,6 +49,11 @@
     },
     {
       "type": "patchouli:crafting",
+      "text": "Puts stuff into cells. For automation, but not for progression.",
+      "recipe": "techreborn:crafting_table/machine/canning_machine"
+    },
+    {
+      "type": "patchouli:crafting",
       "text": "Breaks the block in front of it. Made for engineers, not needed for progression.",
       "recipe": "techreborn:crafting_table/machine/block_breaker"
     },
@@ -51,11 +61,6 @@
       "type": "patchouli:crafting",
       "text": "Puts a block in front of it. Made for engineers, not needed for progression.",
       "recipe": "techreborn:crafting_table/machine/block_placer"
-    },
-    {
-      "type": "patchouli:crafting",
-      "text": "Puts stuff into cells. For automation, but not for progression.",
-      "recipe": "techreborn:crafting_table/machine/canning_machine"
     }
   ]
 }
