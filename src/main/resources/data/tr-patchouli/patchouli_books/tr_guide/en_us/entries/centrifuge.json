@@ -1,0 +1,46 @@
+{
+  "name": "Centrifuge",
+  "icon": "techreborn:industrial_centrifuge",
+  "category": "tr-patchouli:next",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The centrifuge will always be the first tier 2 machine we build, because it provides us with nickel. Remember the 32 grinded coal? We need that now. After you produced 4 carbon mesh, put them in the compressor to get 4 carbon plates."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/carbon_fiber",
+      "recipe2": "techreborn:crafting_table/parts/carbon_mesh"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "We need to compress 4 advanced alloy ingots, and to make these, create some mixed metal ingots.",
+      "recipe": "techreborn:crafting_table/ingot/mixed_metal_ingot"
+    },
+    {
+      "type": "patchouli:smelting",
+      "text": "These are smelted and then put into the compressor. Now with the carbon plates and the advanced alloy plates we can create the advanced machine frame, which is the basis for most tier 2 machines.",
+      "recipe": "techreborn:smelting/advanced_alloy_ingot_from_c_mixed_metal_ingots"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/machine_block/advanced_machine_frame",
+      "recipe2": "techreborn:crafting_table/parts/advanced_circuit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Once you placed the centrifuge next to some energy, throw in any raw iron, copper, or gold you have. Yes, it is very slow and consumes a lot of energy. We'll work on that.",
+      "recipe": "techreborn:crafting_table/machine/industrial_centrifuge"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The centrifuge can not only be used for nickel production, but also some other stuff, like better yield on sap or turning tuff into ashes. To speed it all up, we need the overclocker upgrade. Per level of overclocker, the remaining time for a recipe is reduced by 25%, to a max of 95% or one tick, whichever is longer. You will need 24 tin ingots for full upgrade slots."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/water_coolant_cell_10k",
+      "recipe2": "techreborn:crafting_table/upgrade/overclocker_upgrade"
+    }
+  ]
+}
