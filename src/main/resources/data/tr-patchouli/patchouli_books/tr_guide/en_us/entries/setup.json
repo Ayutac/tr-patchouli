@@ -1,0 +1,26 @@
+{
+  "name": "Initial Set-Up",
+  "icon": "techreborn:solid_fuel_generator",
+  "category": "tr-patchouli:start",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Now we craft a generator and a battery box and place them next to each other. Note that the side with the dot on the battery box is energy output, all other sides are energy input. Put the remaining cable on the output side."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/machine/solid_fuel_generator",
+      "recipe2": "techreborn:crafting_table/machine/low_voltage_su"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Our Initial Setup",
+      "text": "should look like this now.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/setup.png"
+      ],
+      "border": true
+    }
+  ]
+}

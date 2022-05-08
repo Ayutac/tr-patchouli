@@ -1,0 +1,31 @@
+{
+  "name": "Rubber Trees",
+  "icon": "techreborn:rubber_sapling",
+  "category": "tr-patchouli:start",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The first thing we want to do is to find a rubber tree. They can be found in forests. If there are no forests nearby or if you get especially unlucky, you can also find rubber saplings in common loot chests, like in desert temples or villages."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Rubber Tree + Sapling",
+      "text": "Recognize from afar by its typical two-block-high top.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/rubber_tree.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Craft a tree tap and use it on the sappy wood blocks to acquire sap. There are other ways to get sap, we will learn about them later.",
+      "recipe": "techreborn:crafting_table/tool/treetap"
+    },
+    {
+      "type": "patchouli:smelting",
+      "text": "That sap can now be transformed into rubber in a furnace. There are ways to get more rubber out of one sap, but that too is for later.",
+      "recipe": "techreborn:smelting/rubber"
+    }
+  ]
+}

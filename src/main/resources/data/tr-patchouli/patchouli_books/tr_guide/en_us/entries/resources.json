@@ -1,0 +1,28 @@
+{
+  "name": "Early Resources",
+  "icon": "techreborn:refined_iron_ingot",
+  "category": "tr-patchouli:start",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "We will need a few resources to get started. For the initial set-up we will need 8 iron ingots, 8 redstone dust, 3 copper ingots, 16 lead ingots, 6 rubber, some wood and two furnaces, but feel free to collect more, especially iron. First craft 4 batteries."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/cable/insulated_copper_cable",
+      "recipe2": "techreborn:crafting_table/battery/red_cell_battery"
+    },
+    {
+      "type": "patchouli:smelting",
+      "text": "We need to refine our iron to be able to craft a basic machine frame. You can't have too much refined iron ingots.",
+      "recipe": "techreborn:smelting/refined_iron_ingot_from_iron_ingot",
+      "recipe2": "techreborn:smelting/refined_iron_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The frame is a common ingredient in TechReborn and the main reason we need so much iron. Craft one for the next chapter.",
+      "recipe": "techreborn:crafting_table/machine_block/basic_machine_frame"
+    }
+  ]
+}
