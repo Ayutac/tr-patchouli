@@ -1,0 +1,26 @@
+{
+  "name": "Thermal Generator",
+  "icon": "techreborn:thermal_generator",
+  "category": "tr-patchouli:next",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Our centrifuge as well as the other tier 2 machines take much more energy than the tier 1 machines. To make up for the increased consumption, we will build a thermal generator."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "First we need 4 iron ingots and 2 nickel ingots. The latter can be centrifuged from e.g. 18 raw copper. Now put the ingots into an iron alloy furnace or an alloy smelter."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "While that's alloying, craft reinforced glass. After the alloying is done, put the invar ingots into the compressor.",
+      "recipe": "techreborn:crafting_table/misc_block/reinforced_glass"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The thermal generator runs on lava. A renewable lava source or easy access to a lava lake is recommended.",
+      "recipe": "techreborn:crafting_table/machine/thermal_generator"
+    }
+  ]
+}
