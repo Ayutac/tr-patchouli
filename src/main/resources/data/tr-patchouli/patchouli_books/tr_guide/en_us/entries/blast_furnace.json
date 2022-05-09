@@ -24,6 +24,19 @@
       "title": "Ind. Blast Furnace",
       "text": "All TechReborn multiblock structures have holograms showing us how they are built together, once manually activated by using the placed down controller block.",
       "recipe": "techreborn:crafting_table/machine/industrial_blast_furnace"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Ind. Blast Furnace",
+      "text": "Inside can be empty or filled with lava. The",
+      "images": [
+        "tr-patchouli:textures/gui/entries/blast_furnace.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "latter is recommended. Besides being used for progression, the industrial blast furnace has other uses like smelting glass planes back to glass, or metal armor back to ingots, if some sand is added."
     }
   ]
 }
