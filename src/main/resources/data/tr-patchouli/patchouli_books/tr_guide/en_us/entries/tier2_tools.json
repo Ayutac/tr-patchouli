@@ -1,0 +1,32 @@
+{
+  "name": "Tier 2 Tools",
+  "icon": "techreborn:basic_drill",
+  "category": "tr-patchouli:next",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Advanced tools for advanced players. Note that upon upgrading, the energy and enchantments of the tools will be kept. We will need lithium batteries: Grind clay, electrolyze clay dust, put lithium cells with silicon plates into assembling machine."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a diamond pickaxe and diamond shovel in one!",
+      "recipe": "techreborn:crafting_table/tool/advanced_drill"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a faster diamond pickaxe, but only on non-ore blocks. Can also mine 3x3 areas (try sneak-use).",
+      "recipe": "techreborn:crafting_table/tool/advanced_jackhammer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a diamond axe, but without durability!",
+      "recipe": "techreborn:crafting_table/tool/advanced_chainsaw"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Aluminium dust can be smelted in a hot enough blast furnace!",
+      "recipe": "techreborn:crafting_table/armor/lithium_ion_batpack"
+    }
+  ]
+}
