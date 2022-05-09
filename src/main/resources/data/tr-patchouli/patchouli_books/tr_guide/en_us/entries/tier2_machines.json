@@ -26,6 +26,38 @@
         "tr-patchouli:textures/gui/entries/implosion_compressor.png"
       ],
       "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Also brings alternatives for circuits: copper or electrum plate + silicon plate for electronic or advanced circuit.",
+      "recipe": "techreborn:crafting_table/machine/assembling_machine"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Electrum can be obtained by alloying gold and silver ingot or centrifuging 16 lava cells. Silicon cells are obtained e.g. from 16 sand or 8 flint dust in the electrolyzer. Note that cobble grinds to gravel grinds to sand, and extractor gets flint out of gravel. Put silicon cells into industrial blast furnace for plates."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/diamond_saw_blade",
+      "recipe2": "techreborn:crafting_table/machine/industrial_sawmill"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The sawmill is not needed for progression, but easily produces a lot of saw dust, which can be used for recycling."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Sawmill",
+      "text": "Inside MUST be filled with water.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/industrial_sawmill.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Not needed for progression, but very handy nevertheless.",
+      "recipe": "techreborn:crafting_table/machine/auto_crafting_table"
     }
   ]
 }
