@@ -61,6 +61,11 @@
       "type": "patchouli:crafting",
       "text": "Puts a block in front of it. Made for engineers, not needed for progression.",
       "recipe": "techreborn:crafting_table/machine/block_placer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Needs a centrifuge to get zinc out of tin. 1 Zinc and 3 copper ingots alloy to 4 brass ingots.",
+      "recipe": "techreborn:crafting_table/machine/wire_mill"
     }
   ]
 }
