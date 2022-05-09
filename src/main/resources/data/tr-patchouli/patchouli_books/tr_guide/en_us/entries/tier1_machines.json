@@ -49,6 +49,16 @@
     },
     {
       "type": "patchouli:crafting",
+      "text": "Contains somewhat random items upon using.",
+      "recipe": "techreborn:crafting_table/scrap_box"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Opens your scrapboxes for you. Not needed for progression.",
+      "recipe": "techreborn:crafting_table/machine/scrapboxinator"
+    },
+    {
+      "type": "patchouli:crafting",
       "text": "Puts stuff into cells. For automation, but not for progression.",
       "recipe": "techreborn:crafting_table/machine/canning_machine"
     },
@@ -64,7 +74,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "text": "Needs a centrifuge to get zinc out of tin. 1 Zinc and 3 copper ingots alloy to 4 brass ingots.",
+      "text": "Needs a centrifuge to get zinc out of tin. Not needed for progression. 1 Zinc and 3 copper ingots alloy to 4 brass ingots.",
       "recipe": "techreborn:crafting_table/machine/wire_mill"
     }
   ]
