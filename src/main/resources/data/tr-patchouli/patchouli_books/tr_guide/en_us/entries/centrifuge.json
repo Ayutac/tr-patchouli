@@ -1,12 +1,12 @@
 {
-  "name": "Centrifuge",
+  "name": "Ind. Centrifuge",
   "icon": "techreborn:industrial_centrifuge",
   "category": "tr-patchouli:next",
   "sortnum": 8,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The centrifuge will always be the first tier 2 machine we build, because it provides us with nickel. Remember the 32 grinded coal? We need that now. After you produced 4 carbon mesh, put them in the compressor to get 4 carbon plates."
+      "text": "The industrial centrifuge will always be the first tier 2 machine we build, because it provides us with nickel. Remember the 32 grinded coal? We need that now. After you produced 4 carbon mesh, put them in the compressor to get 4 carbon plates."
     },
     {
       "type": "patchouli:crafting",
