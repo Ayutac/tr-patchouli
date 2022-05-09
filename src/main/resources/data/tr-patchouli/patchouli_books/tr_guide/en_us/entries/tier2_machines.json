@@ -1,0 +1,31 @@
+{
+  "name": "Tier 2 machines",
+  "icon": "techreborn:advanced_circuit",
+  "category": "tr-patchouli:next",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "We will go through the remaining tier 2 machines, i.e. the machines you can craft from an advanced circuit. Most of these are important for progression, but if one is not, its page will mention it. Multiblocks have pictures. Collect iron and bauxite..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Also has many convenience recipes, like magma cream or leather from rotten flesh and ashes.",
+      "recipe": "techreborn:crafting_table/machine/chemical_reactor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The implosion compressor can also be used to form gem dust back to gems.",
+      "recipe": "techreborn:crafting_table/machine/implosion_compressor"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Implosion Compressor",
+      "text": "Inside MUST be empty.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/implosion_compressor.png"
+      ],
+      "border": true
+    }
+  ]
+}
