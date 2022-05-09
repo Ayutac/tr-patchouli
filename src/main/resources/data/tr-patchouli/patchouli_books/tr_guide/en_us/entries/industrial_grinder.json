@@ -1,0 +1,44 @@
+{
+  "name": "Industrial Grinder",
+  "icon": "techreborn:industrial_grinder",
+  "category": "tr-patchouli:next",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The industrial grinder is the centerpiece of TechReborn. To craft it, we need a little more preparation. Start with putting ashes and empty cells into our centrifuge to get carbon cells. These go into the industrial blast furnace together with refined iron so we get steel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ind. Electrolyzer",
+      "text": "Next build two industrial electrolyzers. One for keeping, one as ingredient for the industrial grinder.",
+      "recipe": "techreborn:crafting_table/machine/industrial_electrolyzer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Dia. Grinding Head",
+      "text": "Use the steel and some diamonds to craft the grinding heads.",
+      "recipe": "techreborn:crafting_table/parts/diamond_grinding_head"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Now we can craft the controller for the multiblock.",
+      "recipe": "techreborn:crafting_table/machine/industrial_grinder"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Adv. Machine Casing",
+      "text": "We will need 8 advanced machine casings as well as 18 standard ones. Remember you have 2 of the latter left from the industrial blast furnace.",
+      "recipe": "techreborn:crafting_table/machine_block/advanced_machine_casing"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Industrial Grinder",
+      "text": "Inside MUST be filled with water.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/industrial_grinder.png"
+      ],
+      "border": true
+    }
+  ]
+}
