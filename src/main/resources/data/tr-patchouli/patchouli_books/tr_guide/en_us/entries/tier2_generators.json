@@ -1,0 +1,12 @@
+{
+  "name": "Tier 2 Generators",
+  "icon": "techreborn:semifluid_generator",
+  "category": "tr-patchouli:next",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "There are other tier 2 energy generators besides the thermal generator and solar panels. Their usability is limited though, since they usually require fuel not too easily obtained. On the other hand, they are handy for getting rid of some fluids you might have collected in the meantime."
+    }
+  ]
+}
