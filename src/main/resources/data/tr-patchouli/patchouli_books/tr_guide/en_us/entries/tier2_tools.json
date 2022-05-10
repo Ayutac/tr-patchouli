@@ -25,7 +25,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "text": "Aluminium dust can be smelted in a hot enough blast furnace!",
+      "text": "Aluminium dust can be smelted in a hot enough blast furnace. Never worry about enough energy on the run again!",
       "recipe": "techreborn:crafting_table/armor/lithium_ion_batpack"
     }
   ]
