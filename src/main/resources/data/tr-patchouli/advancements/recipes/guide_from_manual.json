@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+	"recipes": [
+	  "tr-patchouli/guide_from_manual"
+	]
+  },
+  "criteria": {
+	"has_manual": {
+	  "trigger": "minecraft:inventory_changed",
+	  "conditions": {
+		"items": [
+		  {
+			"items": ["techreborn:manual"]
+		  }
+		]
+	  }
+	},
+	"has_the_recipe": {
+	  "trigger": "minecraft:recipe_unlocked",
+	  "conditions": {
+		"recipe": "tr-patchouli/guide_from_manual"
+	  }
+	}
+  },
+  "requirements": [
+	[
+	  "has_manual",
+	  "has_the_recipe"
+	]
+  ]
+}

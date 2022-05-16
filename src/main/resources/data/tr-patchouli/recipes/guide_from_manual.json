@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "techreborn:manual"
+		},
+		{
+			"item": "techreborn:refined_iron_ingot"
+		}
+	],
+	"result": {
+		"item": "tr-patchouli:guide"
+	}
+}
