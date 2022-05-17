@@ -2,7 +2,7 @@
   "name": "Tier 2 Machines",
   "icon": "techreborn:advanced_circuit",
   "category": "tr-patchouli:next",
-  "sortnum": 12,
+  "sortnum": 32,
   "pages": [
     {
       "type": "patchouli:text",

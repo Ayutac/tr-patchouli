@@ -2,7 +2,7 @@
   "name": "Tier 2 Solar Panels",
   "icon": "techreborn:industrial_solar_panel",
   "category": "tr-patchouli:next",
-  "sortnum": 15,
+  "sortnum": 35,
   "pages": [
     {
       "type": "patchouli:crafting",

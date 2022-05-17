@@ -2,7 +2,7 @@
   "name": "Thermal Generator",
   "icon": "techreborn:thermal_generator",
   "category": "tr-patchouli:next",
-  "sortnum": 9,
+  "sortnum": 29,
   "pages": [
     {
       "type": "patchouli:text",

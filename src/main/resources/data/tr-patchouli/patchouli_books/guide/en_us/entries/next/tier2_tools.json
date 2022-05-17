@@ -2,7 +2,7 @@
   "name": "Tier 2 Tools",
   "icon": "techreborn:basic_drill",
   "category": "tr-patchouli:next",
-  "sortnum": 13,
+  "sortnum": 33,
   "pages": [
     {
       "type": "patchouli:text",

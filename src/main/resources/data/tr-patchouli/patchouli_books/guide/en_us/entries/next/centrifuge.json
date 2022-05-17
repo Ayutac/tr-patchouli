@@ -2,7 +2,7 @@
   "name": "Ind. Centrifuge",
   "icon": "techreborn:industrial_centrifuge",
   "category": "tr-patchouli:next",
-  "sortnum": 8,
+  "sortnum": 28,
   "pages": [
     {
       "type": "patchouli:text",

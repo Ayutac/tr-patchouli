@@ -2,7 +2,7 @@
   "name": "Ind. Blast Furnace",
   "icon": "techreborn:industrial_blast_furnace",
   "category": "tr-patchouli:next",
-  "sortnum": 10,
+  "sortnum": 30,
   "pages": [
     {
       "type": "patchouli:text",

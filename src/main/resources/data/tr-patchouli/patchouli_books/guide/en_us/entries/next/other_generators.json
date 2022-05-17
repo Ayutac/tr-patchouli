@@ -2,7 +2,7 @@
   "name": "Other Generators",
   "icon": "techreborn:semi_fluid_generator",
   "category": "tr-patchouli:next",
-  "sortnum": 16,
+  "sortnum": 36,
   "pages": [
     {
       "type": "patchouli:text",

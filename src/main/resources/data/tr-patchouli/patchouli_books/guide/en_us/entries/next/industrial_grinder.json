@@ -2,7 +2,7 @@
   "name": "Industrial Grinder",
   "icon": "techreborn:industrial_grinder",
   "category": "tr-patchouli:next",
-  "sortnum": 11,
+  "sortnum": 31,
   "pages": [
     {
       "type": "patchouli:text",
