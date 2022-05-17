@@ -1,0 +1,37 @@
+{
+  "name": "Other Generators",
+  "icon": "techreborn:semi_fluid_generator",
+  "category": "tr-patchouli:next",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "There are other tier 2 energy generators besides the thermal generator and solar panels. Their usability is limited though, since they usually require fuel not too easily obtained."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Technically tier 1, but cannot be used without e.g. sodium from electrolyzing clay dust.",
+      "recipe": "techreborn:crafting_table/machine/semi_fluid_generator"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "In the rolling machine, sandwich 3 magnesium dust between 6 aluminium ingots. Magnesium dust can be obtained from electrolyzing peridot dust.",
+      "item": "techreborn:magnalium_plate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works better if higher up. Can also be obtained via assembly machine with a generator and one magnalium plate.",
+      "recipe": "techreborn:crafting_table/machine/wind_mill"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "To get rid of your hydrogen.",
+      "recipe": "techreborn:crafting_table/machine/gas_turbine"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Tier 1 but unusable without a tier 3 distillation machine, since we cannot acquire diesel otherwise.",
+      "recipe": "techreborn:crafting_table/machine/diesel_generator"
+    }
+  ]
+}
