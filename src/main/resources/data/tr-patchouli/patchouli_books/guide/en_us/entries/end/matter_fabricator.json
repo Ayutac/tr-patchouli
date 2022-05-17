@@ -1,0 +1,47 @@
+{
+  "name": "Matter Fabricator",
+  "icon": "techreborn:matter_fabricator",
+  "category": "tr-patchouli:end",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The matter fabricator doesn't need to be the first tier 3 machine to be crafted, but that is recommended, because iridium is so rare. Hopefully you found 8 raw iridium by now. If not, put hearts of the sea into the industrial grinder."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "You can get industrial circuits with the assembly machine by combining an advanced one with a platinum plate.",
+      "recipe": "techreborn:crafting_table/battery/lapotron_crystal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The 2 ingots you make need to be put into the implosion compressor to be formed to plates.",
+      "recipe": "techreborn:crafting_table/ingot/iridium_alloy_ingot"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The most expensive ingredient for the fabricator: used 17 diamonds + 4 iridium + a lot of platinum dust.",
+      "recipe": "techreborn:crafting_table/battery/lapotronic_orb"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/energy_flow_chip",
+      "recipe2": "techreborn:crafting_table/machine_block/industrial_machine_frame"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Put scrap or scrap boxes into it to get uu-matter. Some recipes for uu-matter are given on the following pages.",
+      "recipe": "techreborn:crafting_table/machine/matter_fabricator"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/uu_matter/iridium_ore",
+      "recipe2": "techreborn:crafting_table/uu_matter/raw_tungsten"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/uu_matter/titanium_dust",
+      "recipe2": "techreborn:crafting_table/uu_matter/platinum_dust"
+    }
+  ]
+}
