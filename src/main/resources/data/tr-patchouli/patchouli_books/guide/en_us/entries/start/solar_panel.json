@@ -1,0 +1,17 @@
+{
+  "name": "Solar Panels",
+  "icon": "techreborn:basic_solar_panel",
+  "category": "tr-patchouli:start",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Like wind and water generators, solar panels produce free energy if placed right without needing additional fuel. Unlike the other two though, solar panels have different tiers. Here we look at the basic one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "All solar panels produce more during the day than during the night, naturally.",
+      "recipe": "techreborn:crafting_table/solar_panel/basic_solar_panel"
+    }
+  ]
+}
