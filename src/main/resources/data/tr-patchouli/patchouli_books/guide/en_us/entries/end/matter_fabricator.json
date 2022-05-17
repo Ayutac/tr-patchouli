@@ -42,6 +42,10 @@
       "type": "patchouli:crafting",
       "recipe": "techreborn:crafting_table/uu_matter/titanium_dust",
       "recipe2": "techreborn:crafting_table/uu_matter/platinum_dust"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/uu_matter/diamond_ore"
     }
   ]
 }
