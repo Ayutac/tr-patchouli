@@ -1,0 +1,17 @@
+{
+  "name": "Tier 2 Solar Panels",
+  "icon": "techreborn:industrial_solar_panel",
+  "category": "tr-patchouli:next",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/solar_panel/advanced_solar_panel",
+      "recipe2": "techreborn:crafting_table/solar_panel/industrial_solar_panel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/solar_panel/ultimate_solar_panel"
+    }
+  ]
+}
