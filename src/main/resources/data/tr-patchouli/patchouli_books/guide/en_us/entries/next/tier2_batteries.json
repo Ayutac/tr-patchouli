@@ -1,0 +1,27 @@
+{
+  "name": "Tier 2 Batteries",
+  "icon": "techreborn:lithium_ion_battery",
+  "category": "tr-patchouli:next",
+  "sortnum": 37,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "There are two differently obtained kinds of batteries at this stage. One can be used to create a portable battery backpack, the other one for a better stationary energy storage."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The lithium cell has already been introduced in tools. Craft 6 of them for the batpack.",
+      "recipe": "techreborn:crafting_table/armor/lithium_ion_batpack"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "Let 32 redstone chemically react with a diamond to get a synthetic redstone crystal. Two of them plus a silicon plate can be assembled to an energy crystal.",
+      "item": "techreborn:energy_crystal"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "The energy crystal can now be used to craft an MFE.",
+      "recipe": "techreborn:crafting_table/machine/medium_voltage_su"
+    }
+  ]
+}
