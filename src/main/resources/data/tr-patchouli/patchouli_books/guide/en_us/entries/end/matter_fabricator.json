@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The matter fabricator doesn't need to be the first tier 3 machine to be crafted, but that is recommended, because iridium is so rare. Hopefully you found 8 raw iridium by now. If not, put hearts of the sea into the industrial grinder."
+      "text": "The matter fabricator doesn't need to be the first tier 3 machine to be crafted, but that is recommended, because iridium is so rare. Hopefully you found 8 raw iridium by now. If not, put hearts of the sea into the industrial grinder. Chromium can be electrolyzed from ruby dust."
     },
     {
       "type": "patchouli:crafting",

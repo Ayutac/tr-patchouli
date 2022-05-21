@@ -28,7 +28,7 @@
     {
       "type": "patchouli:crafting",
       "title": "Adv. Machine Casing",
-      "text": "We will need 8 advanced machine casings as well as 18 standard ones. Remember you have 2 of the latter left from the industrial blast furnace.",
+      "text": "We will need 8 advanced machine casings as well as 18 standard ones. These can also used to increase the heat of the industrial blast furnace.",
       "recipe": "techreborn:crafting_table/machine_block/advanced_machine_casing"
     },
     {
