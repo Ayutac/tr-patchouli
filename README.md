@@ -1,4 +1,4 @@
-# Planet B
+# Tech Reborn Patchouli
 
 A [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) Add-on.
 
