@@ -1,0 +1,31 @@
+{
+  "name": "Tier 3 Tools",
+  "icon": "techreborn:industrial_drill",
+  "category": "tr-patchouli:end",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Industrial tools for industrial players. Note that upon upgrading, the energy and enchantments of the tools will be kept."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a diamond pickaxe and diamond shovel in one. Can also mine 3x3 areas (try sneak-use).",
+      "recipe": "techreborn:crafting_table/tool/industrial_drill"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a faster diamond pickaxe, but only on non-ore blocks. Can also mine 5x5 areas (try sneak-use).",
+      "recipe": "techreborn:crafting_table/tool/industrial_jackhammer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Works like a diamond axe, but without durability. Can also fell entire trees (try sneak-use).",
+      "recipe": "techreborn:crafting_table/tool/industrial_chainsaw"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/armor/lapotronic_orbpack"
+    }
+  ]
+}
