@@ -1,0 +1,32 @@
+{
+  "name": "Vacuum Freezer",
+  "icon": "techreborn:vacuum_freezer",
+  "category": "tr-patchouli:end",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The vaccum freezer is needed to cool down hot tungstensteel, but it can also be used as a cheap way to get blue ice, as it requires a lot less of packed ice and for those a lot less of ice to be processed. If you need more peridot, try electrolyzing basalt dust."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/data_storage_core",
+      "recipe2": "techreborn:crafting_table/machine/vacuum_freezer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ind. Machine Casing",
+      "text": "For the multiblock, we need industrial casings. Can also be used to increase the heat of the industrial blast furnace.",
+      "recipe": "techreborn:crafting_table/machine_block/industrial_machine_casing"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Vacuum Freezer",
+      "text": "Inside MUST be empty.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/vacuum_freezer.png"
+      ],
+      "border": true
+    }
+  ]
+}
