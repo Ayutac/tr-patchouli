@@ -2,7 +2,7 @@
   "name": "Vacuum Freezer",
   "icon": "techreborn:vacuum_freezer",
   "category": "tr-patchouli:end",
-  "sortnum": 51,
+  "sortnum": 52,
   "pages": [
     {
       "type": "patchouli:text",

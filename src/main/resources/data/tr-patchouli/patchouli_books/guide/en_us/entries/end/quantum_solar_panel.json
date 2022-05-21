@@ -1,0 +1,16 @@
+{
+  "name": "Quantum Solar Panel",
+  "icon": "techreborn:quantum_solar_panel",
+  "category": "tr-patchouli:end",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The last tier of solar panel progression. Not needed for main progression, but this is one of the top energy sources."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/solar_panel/quantum_solar_panel"
+    }
+  ]
+}

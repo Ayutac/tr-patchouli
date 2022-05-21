@@ -2,7 +2,7 @@
   "name": "Fluid Replicator",
   "icon": "techreborn:fluid_replicator",
   "category": "tr-patchouli:end",
-  "sortnum": 52,
+  "sortnum": 53,
   "pages": [
     {
       "type": "patchouli:text",
