@@ -1,0 +1,31 @@
+{
+  "name": "Quantum Armor",
+  "icon": "techreborn:quantum_chestplate",
+  "category": "tr-patchouli:end",
+  "sortnum": 55,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Wear all four for creative flight!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/neutron_reflector",
+      "recipe2": "techreborn:crafting_table/parts/thick_neutron_reflector"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/iridium_neutron_reflector",
+      "recipe2": "techreborn:crafting_table/armor/quantum_helmet"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/armor/quantum_leggings",
+      "recipe2": "techreborn:crafting_table/armor/quantum_boots"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/armor/quantum_chestplate"
+    }
+  ]
+}
