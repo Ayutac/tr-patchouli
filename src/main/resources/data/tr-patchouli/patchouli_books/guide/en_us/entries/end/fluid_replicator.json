@@ -1,0 +1,26 @@
+{
+  "name": "Fluid Replicator",
+  "icon": "techreborn:fluid_replicator",
+  "category": "tr-patchouli:end",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Not needed for pro-gression, but pretty useful. Turns UU-matter into the fluid placed in the middle of it. Put tungsten and steel in a hot ind. blast furnace and cool the hot tungstensteel in the vacuum freezer. Helium can be obtained from centrifuging endstone dust."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/parts/superconductor",
+      "recipe2": "techreborn:crafting_table/machine/fluid_replicator"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Fluid Replicator",
+      "text": "Fill inside as needed.",
+      "images": [
+        "tr-patchouli:textures/gui/entries/fluid_replicator.png"
+      ],
+      "border": true
+    }
+  ]
+}
