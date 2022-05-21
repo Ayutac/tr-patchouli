@@ -1,0 +1,21 @@
+{
+  "name": "Fusion Reactor",
+  "icon": "techreborn:fusion_control_computer",
+  "category": "tr-patchouli:end",
+  "sortnum": 56,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "You reached the last machine that matters: the fusion reactor. Build a LOT of coils first!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Nichrome coil can be get from the rolling machine, 1 central chromium ingot and 4 nickel ingots around.",
+      "recipe": "techreborn:crafting_table/machine/fusion_coil"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "techreborn:crafting_table/machine/fusion_control_computer"
+    }
+  ]
+}
